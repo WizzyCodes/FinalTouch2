@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 2,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 3,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 4,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 5,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 6,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 7,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 8,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 9,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 10,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 11,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 12,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  },
+  {
+    "id": 13,
+    "image": "./assets/pics/adobe.jpg",
+    "title": "Adobe",
+    "description": "Adobe is a software company that specializes in creating and distributing software for graphic design, video editing, and other creative applications."
+  }
+]
